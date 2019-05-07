@@ -1,0 +1,86 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  background-image: url("../images/BlackHair1.jpg");
+  margin: auto;
+  position: relative;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.halfwidth {
+  width: 50%;
+}
+
+.quarterwidth {
+  width: 25%;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.navbar {
+  background-color: black;
+  height: 9em;
+  background-image: url(../images/hacker-virus-loading-computer-hd-wallpaper.jpg);
+}
+
+.container {
+  margin: 0;
+  background-color: black;
+  color: grey;
+  margin-top: 3em;
+  margin-left: 2em;
+}
+
+#button {
+  height: 2em;
+  text-align: center;
+  margin: auto;
+  margin-top: 1em;
+}
+
+.row {
+  margin: auto;
+  margin-bottom: 1em;
+}
+
+.writeup, .wordGuess {
+  display: block;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  padding: 1em;
+  background-color:  crimson;
+  height: 20em;
+  color: grey;
+}
+.writeup {
+  width: 40%;
+}
+
+.wordGuess {
+  width: 50%;
+}
+
+.footer {
+  margin-top: 0em;
+  background-color: black;
+  color: white;
+  height: 1.5em;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
